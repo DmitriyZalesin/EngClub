@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<string>Каккие есть курсы?</string>
+		<string>Какой курс выбрать?</string>
+		<string>Можно ли пропускать занятия?</string>
+		<string>У вас есть курсы для путешественников?</string>
+	</array>
+</dict>
+</plist>
