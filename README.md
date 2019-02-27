@@ -1,1 +1,1 @@
-# EngClub
+# Мобильное приложение BlahBlahClub
